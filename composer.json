@@ -1,6 +1,9 @@
 {
     "name": "dabourz/date-fr",
     "description": "French dates made simple in php, use in your favorite framework.",
+    "keywords": ["date", "time", "datetime", "i18n", "translation", "french"],
+    "homepage": "https://github.com/DaBourz/DateFr",
+    "license" : "MIT",
     "type": "library",
     "authors": [
         {
@@ -8,7 +11,6 @@
             "email": "stephane@bourzeix.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
     },
